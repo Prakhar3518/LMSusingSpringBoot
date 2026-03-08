@@ -9,14 +9,6 @@ A Library Management System designed to see the books available in a college lib
 * [MySQL](https://www.mysql.com/) used as a Java persistence store
 * [Project Lombok](https://projectlombok.org/) Reduces the time  of writing java boiler plate code.
 
-## Using Library Management System
-CLI-->
-```
-git clone https://github.com/saikat021/Library-Management-System.git
-cd Library-Management-System
-mvn package 
-java -jar target/Student-library-0.0.1-SNAPSHOT.jar
-```
 Intellij/Eclipse-->
 1. Let maven resolve dependencies 
 2. run SpringBootApplication
